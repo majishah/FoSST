@@ -1,4 +1,4 @@
-# Forecasting with SHAP-based Selective Triggers FoSST
+# Forecasting with SHAP-based Selective Triggers(FoSST Algorithm)
 We propose a novel algorithm, termed FoSST (Forecasting with SHAP-based Selective Triggers). The primary objective of FoSST is to enable adaptive and transparent learning in non-stationary streaming data environments.
 
 # Abstract
